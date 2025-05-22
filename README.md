@@ -117,5 +117,3 @@ This tool is **finance-aware**. The prompt guides the LLM to:
 MIT License – Feel free to use, modify, and share!
 
 ---
-
-Let me know if you'd like this in a `.md` file or want to add deployment instructions (e.g., on Streamlit Cloud).
